@@ -1,0 +1,23 @@
+{
+	"name": "ottplayer",
+	"date": "2023.07.03",
+	"version": "1.0.0",
+	"description": "ottplayer - Play your own m3u Lists On Ministra",
+	"author": {
+		"name": "mickflix"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mickflix/ottplayer2.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "ottplayer",
+		"legacy": true,
+		"description": "ottplayer - Play your own m3u Lists On Ministra",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
